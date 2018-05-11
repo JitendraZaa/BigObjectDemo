@@ -1,5 +1,5 @@
 # SFDX Trailhead Badge
-Big Object Badge
+Big Object Demo
 
 ## SFDX Command used to deploy in Dev Salesforce Instance
 `sfdx force:mdapi:deploy -c -d ../mdAPIZip/unpackaged -u jzaa1 -w 10`
